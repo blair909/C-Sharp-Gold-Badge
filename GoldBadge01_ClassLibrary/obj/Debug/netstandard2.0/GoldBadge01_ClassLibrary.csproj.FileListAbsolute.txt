@@ -1,0 +1,8 @@
+C:\Users\Carson Blair\source\repos\GoldBadgeProjectChallenges\GoldBadge01_ClassLibrary\bin\Debug\netstandard2.0\GoldBadge01_ClassLibrary.deps.json
+C:\Users\Carson Blair\source\repos\GoldBadgeProjectChallenges\GoldBadge01_ClassLibrary\bin\Debug\netstandard2.0\GoldBadge01_ClassLibrary.dll
+C:\Users\Carson Blair\source\repos\GoldBadgeProjectChallenges\GoldBadge01_ClassLibrary\bin\Debug\netstandard2.0\GoldBadge01_ClassLibrary.pdb
+C:\Users\Carson Blair\source\repos\GoldBadgeProjectChallenges\GoldBadge01_ClassLibrary\obj\Debug\netstandard2.0\GoldBadge01_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Carson Blair\source\repos\GoldBadgeProjectChallenges\GoldBadge01_ClassLibrary\obj\Debug\netstandard2.0\GoldBadge01_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Carson Blair\source\repos\GoldBadgeProjectChallenges\GoldBadge01_ClassLibrary\obj\Debug\netstandard2.0\GoldBadge01_ClassLibrary.AssemblyInfo.cs
+C:\Users\Carson Blair\source\repos\GoldBadgeProjectChallenges\GoldBadge01_ClassLibrary\obj\Debug\netstandard2.0\GoldBadge01_ClassLibrary.dll
+C:\Users\Carson Blair\source\repos\GoldBadgeProjectChallenges\GoldBadge01_ClassLibrary\obj\Debug\netstandard2.0\GoldBadge01_ClassLibrary.pdb
